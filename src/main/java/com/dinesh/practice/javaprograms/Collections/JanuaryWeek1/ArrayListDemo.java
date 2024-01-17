@@ -13,7 +13,6 @@ public class ArrayListDemo {
 		
 		for(Integer in: arr) {
 			System.out.println("The number is :"+in);
-			
 		}
 		
 	}

@@ -10,7 +10,7 @@ public class ArrayListDemo {
 		arr.add(24);
 		arr.add(90);
 		arr.add(0);
-		
+		//printing elements
 		for(Integer in: arr) {
 			System.out.println("The number is :"+in);
 		}

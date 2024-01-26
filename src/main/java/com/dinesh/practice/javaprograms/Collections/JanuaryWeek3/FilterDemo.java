@@ -8,8 +8,7 @@ import java.util.stream.Collectors;
 
 public class FilterDemo {
 	public static void main(String[] args) {
-		//ArrayList<Integer> numbersList = new ArrayList<Integer>();
-		//numbersList.add(10);
+		
 
 		List<Integer> numberslist = Arrays.asList(10, 20, 32, 66, 99);
 		List<Integer> evenNumbersList = new ArrayList<Integer>();

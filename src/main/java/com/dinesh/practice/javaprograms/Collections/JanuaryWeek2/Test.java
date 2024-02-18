@@ -23,7 +23,7 @@ public class Test {
 		System.out.println("Multiplication of " + t.operate(6, 3, multiply));
 
 		FuncInter2 fobj = message -> System.out.println("Hello" + message);
-		fobj.sayMessage(" DineshNaidu.");
+		fobj.sayMessage(" DineshNaiduChavadi.");
 
 	}
 

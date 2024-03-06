@@ -21,6 +21,9 @@ public class MapClass implements CollectionInterface {
 		// TODO Auto-generated method stub
 
 	}
+	public void deleteElement(String str,String s) {
+		map.remove(str, s);
+	}
 
 	@Override
 	public int collectionSize() {

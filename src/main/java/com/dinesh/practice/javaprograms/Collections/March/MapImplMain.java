@@ -7,9 +7,11 @@ public class MapImplMain {
 		mapclass.addElements("Dinesh", "Chavadi");
 		mapclass.addElements("Naidu", "Chavadi");
 		mapclass.addElements("Mahi", "Chavadi");
-		
-		//System.out.println(mapclass.get("Dinesh"));
 
+		// System.out.println(mapclass.get("Dinesh"));
+
+		mapclass.getElements();
+		//mapclass.deleteElement("Dinesh");
 		System.out.println("MapCollection size: " + mapclass.collectionSize());
 
 		System.out.println("Elements in the MapClass is");
